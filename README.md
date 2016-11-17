@@ -19,4 +19,4 @@
 * Browser resolution detection both during loading and resize. This feature is done via Javascript.
 * Loading screen.
 * User agent detection, wheather the user is using mobile or desktop, or any other (like curl).
-* Width based media quwery
+* Width based media query, for displaying diffrent images in diffrent resolution.
